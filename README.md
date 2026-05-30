@@ -49,6 +49,15 @@ salvin_sebastian
   <br>
   <h4>Tools & Tech</h4>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,docker,powershell&theme=dark" />
+  <br>
+  <h4>Vibe Coding & AI</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Antigravity-IDE-00ffff?style=flat-square&logo=gnome-terminal&logoColor=black" />
+    <img src="https://img.shields.io/badge/Claude-AI-8A2BE2?style=flat-square&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codex-OpenAI-00ffff?style=flat-square&logo=openai&logoColor=black" />
+    <img src="https://img.shields.io/badge/Zed-Editor-027d9c?style=flat-square" />
+    <img src="https://img.shields.io/badge/OpenCode-Platform-00ffff?style=flat-square" />
+  </p>
 </div>
 
 <br>
