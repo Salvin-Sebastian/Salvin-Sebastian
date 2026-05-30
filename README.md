@@ -69,15 +69,15 @@ salvin_sebastian
 
 <br>
 
-### 🏆 GitHub Matrix Stats & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Salvin-Sebastian&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Salvin's Trophies" />
-</div>
+### 📊 GitHub Matrix Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salvin-Sebastian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9" alt="Salvin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvin-Sebastian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&text_color=c9d1d9" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salvin-Sebastian&theme=tokyonight" alt="Salvin's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salvin-Sebastian&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Salvin-Sebastian&theme=tokyonight" alt="Most Commits" />
 </p>
 
 <p align="center">
