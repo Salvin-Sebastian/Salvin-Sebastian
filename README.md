@@ -50,8 +50,8 @@ salvin_sebastian
 <p align="center">
   <a href="https://salvin-sebastian.me"><img src="https://img.shields.io/badge/Website-salvin--sebastian.me-00ffff?style=flat-square&logo=google-chrome&logoColor=black"/></a>
   <!-- Update these links with your actual socials -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/salvin_sebastian"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="mailto:salvinsebastian308@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"/></a>
 </p>
 
 <div align="center">
