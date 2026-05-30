@@ -5,7 +5,7 @@
   
   <!-- Typing SVG for dynamic text -->
   <a href="https://salvin-sebastian.me">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Exploring+the+intersection+of+tech+and+security.;Building+a+safer+internet+one+byte+at+a+time.;Passionate+about+Ethical+Hacking.;Vibe+coding+through+the+matrix." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&v=2&lines=Exploring+the+intersection+of+tech+and+security.;Building+a+safer+internet+one+byte+at+a+time.;Passionate+about+Ethical+Hacking.;Vibe+coding+through+the+matrix." alt="Typing SVG" />
   </a>
 </div>
 
