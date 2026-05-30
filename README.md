@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=250&section=header&text=Salvin%20Sebastian&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Salvin%20Sebastian&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=00ff00" />
   
   <h3>BCA Student | Ethical Hacker | MuLearn Intern | Vibe Coder 👨‍💻</h3>
   
@@ -12,8 +12,8 @@
 <br>
 
 <div align="center">
-  <a href="https://salvin-sebastian.me"><img src="https://img.shields.io/badge/Portfolio-Neon%20Cyber-00ff00?style=for-the-badge&logo=Web&logoColor=black"></a>
-  <a href="https://github.com/Salvin-Sebastian"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+  <a href="https://salvin-sebastian.me"><img src="https://img.shields.io/badge/Portfolio-Neon%20Cyber-000000?style=for-the-badge&logo=Web&logoColor=00ff00"></a>
+  <a href="https://github.com/Salvin-Sebastian"><img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=00ff00"></a>
 </div>
 
 ---
@@ -52,11 +52,11 @@ Salvin_Sebastian
   <br>
   <h4>Vibe Coding & AI</h4>
   <p>
-    <img src="https://img.shields.io/badge/Antigravity-IDE-00ff00?style=flat-square&logo=gnome-terminal&logoColor=black" />
-    <img src="https://img.shields.io/badge/Claude-AI-00ff00?style=flat-square&logo=anthropic&logoColor=black" />
-    <img src="https://img.shields.io/badge/Codex-OpenAI-00ff00?style=flat-square&logo=openai&logoColor=black" />
-    <img src="https://img.shields.io/badge/Zed-Editor-00ff00?style=flat-square&logoColor=black" />
-    <img src="https://img.shields.io/badge/OpenCode-Platform-00ff00?style=flat-square&logoColor=black" />
+    <img src="https://img.shields.io/badge/Antigravity-IDE-000000?style=flat-square&logo=gnome-terminal&logoColor=00ff00" />
+    <img src="https://img.shields.io/badge/Claude-AI-000000?style=flat-square&logo=anthropic&logoColor=00ff00" />
+    <img src="https://img.shields.io/badge/Codex-OpenAI-000000?style=flat-square&logo=openai&logoColor=00ff00" />
+    <img src="https://img.shields.io/badge/Zed-Editor-000000?style=flat-square&logoColor=00ff00" />
+    <img src="https://img.shields.io/badge/OpenCode-Platform-000000?style=flat-square&logoColor=00ff00" />
   </p>
 </div>
 
@@ -95,11 +95,11 @@ Salvin_Sebastian
 
 ### 🌐 Connect With My Network
 <p align="center">
-  <a href="https://salvin-sebastian.me"><img src="https://img.shields.io/badge/Website-salvin--sebastian.me-00ff00?style=flat-square&logo=google-chrome&logoColor=black"/></a>
-  <a href="https://linkedin.com/in/salvin_sebastian"><img src="https://img.shields.io/badge/LinkedIn-Connect-00ff00?style=flat-square&logo=linkedin&logoColor=black"/></a>
-  <a href="mailto:salvinsebastian308@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00ff00?style=flat-square&logo=gmail&logoColor=black"/></a>
+  <a href="https://salvin-sebastian.me"><img src="https://img.shields.io/badge/Website-salvin--sebastian.me-000000?style=flat-square&logo=google-chrome&logoColor=00ff00"/></a>
+  <a href="https://linkedin.com/in/salvin_sebastian"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat-square&logo=linkedin&logoColor=00ff00"/></a>
+  <a href="mailto:salvinsebastian308@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=flat-square&logo=gmail&logoColor=00ff00"/></a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer&fontColor=00ff00" />
 </div>
