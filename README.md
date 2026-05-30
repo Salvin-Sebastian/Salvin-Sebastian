@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:000000&height=250&section=header&text=Salvin%20Sebastian&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
   
-  <h3>Cybersecurity Student | Ethical Hacking Enthusiast | Vibe Coder 👨‍💻</h3>
+  <h3>BCA Student | Ethical Hacker | MuLearn Intern | Vibe Coder 👨‍💻</h3>
   
   <!-- Typing SVG for dynamic text -->
   <a href="https://salvin-sebastian.me">
@@ -25,10 +25,11 @@
 salvin_sebastian
 
 > cat about_me.txt
-[+] 🎓 Pursuing studies in Computer Applications
-[+] 🛡️ Interested in software development & modern computing tech
+[+] 🎓 Pursuing BCA (Computer Applications)
+[+] 💼 Currently an Intern at MuLearn
+[+] 🛡️ Active Ethical Hacker & Cybersecurity Enthusiast
 [+] 💻 Continuously building knowledge in programming & problem-solving
-[+] 🌐 Excitement for turning ideas into real applications
+[+] 🌐 Passionate about turning ideas into real, secure applications
 
 > ./get_skills.sh
 [+] Penetration Testing
