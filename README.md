@@ -53,10 +53,10 @@ Salvin_Sebastian
   <h4>Vibe Coding & AI</h4>
   <p>
     <img src="https://img.shields.io/badge/Antigravity-IDE-00ff00?style=flat-square&logo=gnome-terminal&logoColor=black" />
-    <img src="https://img.shields.io/badge/Claude-AI-8A2BE2?style=flat-square&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Claude-AI-00ff00?style=flat-square&logo=anthropic&logoColor=black" />
     <img src="https://img.shields.io/badge/Codex-OpenAI-00ff00?style=flat-square&logo=openai&logoColor=black" />
-    <img src="https://img.shields.io/badge/Zed-Editor-027d9c?style=flat-square" />
-    <img src="https://img.shields.io/badge/OpenCode-Platform-00ff00?style=flat-square" />
+    <img src="https://img.shields.io/badge/Zed-Editor-00ff00?style=flat-square&logoColor=black" />
+    <img src="https://img.shields.io/badge/OpenCode-Platform-00ff00?style=flat-square&logoColor=black" />
   </p>
 </div>
 
@@ -90,14 +90,14 @@ Salvin_Sebastian
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salvin-Sebastian&theme=dark&hide_border=true&background=0D1117&ring=00ff00&fire=00ff00&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salvin-Sebastian&theme=dark&hide_border=true&background=0D1117&ring=00ff00&fire=00ff00&currStreakNum=00ff00&currStreakLabel=00ff00&sideNums=00ff00&sideLabels=00ff00&dates=00ff00&stroke=00ff00" alt="GitHub Streak" />
 </p>
 
 ### 🌐 Connect With My Network
 <p align="center">
   <a href="https://salvin-sebastian.me"><img src="https://img.shields.io/badge/Website-salvin--sebastian.me-00ff00?style=flat-square&logo=google-chrome&logoColor=black"/></a>
-  <a href="https://linkedin.com/in/salvin_sebastian"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
-  <a href="mailto:salvinsebastian308@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/salvin_sebastian"><img src="https://img.shields.io/badge/LinkedIn-Connect-00ff00?style=flat-square&logo=linkedin&logoColor=black"/></a>
+  <a href="mailto:salvinsebastian308@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00ff00?style=flat-square&logo=gmail&logoColor=black"/></a>
 </p>
 
 <div align="center">
