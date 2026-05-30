@@ -65,7 +65,6 @@ salvin_sebastian
 ### 💻 Recent Operations (Projects)
 | Project Name | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
-| **[Portfolio Website](https://salvin-sebastian.me)** | A responsive, neon cyber-themed personal portfolio showcasing my web development skills, projects, and professional information. | HTML, CSS, JavaScript | 🟢 Online |
 | **Muner Transport** | A tour booking platform created for a client, developed entirely using AI Vibe Coding methodologies. | AI / Vibe Coding | 🟢 Completed |
 | **Future Missions** | Building practical digital solutions and expanding my cybersecurity toolkit. | ??? | 🟡 In Progress |
 
