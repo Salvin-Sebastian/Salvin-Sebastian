@@ -25,10 +25,10 @@
 salvin_sebastian
 
 > cat about_me.txt
-[+] 🎓 Studying Cybersecurity & Ethical Hacking
-[+] 🛡️ Dedicated to understanding digital threats
-[+] 💻 Constantly learning new vulnerabilities and defense mechanisms
-[+] 🌐 Always open to collaboration on security projects
+[+] 🎓 Pursuing studies in Computer Applications
+[+] 🛡️ Interested in software development & modern computing tech
+[+] 💻 Continuously building knowledge in programming & problem-solving
+[+] 🌐 Excitement for turning ideas into real applications
 
 > ./get_skills.sh
 [+] Penetration Testing
@@ -49,6 +49,22 @@ salvin_sebastian
   <h4>Tools & Tech</h4>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,docker,powershell&theme=dark" />
 </div>
+
+<br>
+
+### 💻 Recent Operations (Projects)
+| Project Name | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **[Portfolio Website](https://salvin-sebastian.me)** | A responsive, neon cyber-themed personal portfolio showcasing my web development skills, projects, and professional information. | HTML, CSS, JavaScript | 🟢 Online |
+| **Future Missions** | Building practical digital solutions and expanding my cybersecurity toolkit. | ??? | 🟡 In Progress |
+
+<br>
+
+### 📜 Credentials & Certifications
+- 🛡️ **Cybersecurity Webinar Participation** — *Redteam Hacker Academy (July 2024)*  
+  > Gained insights into offensive security techniques and threat assessment.
+- 🐙 **Hacktoberfest 2024** — *Inovus Labs*  
+  > Actively participated in open-source projects, making meaningful contributions to the community.
 
 <br>
 
